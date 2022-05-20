@@ -1,0 +1,15 @@
+0   0   0   0   0   wl  0   0   0   wl  0   0   0   0   0
+0   0   0   0   0   wl  0   0   0   wl  0   0   0   0   0
+wl  wl  wl  wl  wl  wl  wl  dl  wl  wl  wl  wl  wl  wl  wl
+wl  0   0   0   0   wl  0   0   0   wl  0   0   0   0   wl
+wl  0   pa8 0   0   du  0   nc  0   du  0   0   ph1 np  wl
+wl  0   0   0   0   wl  0   0   0   wl  0   0   0   0   wl
+wl  wl  wl  wl  wl  wl  0   0   0   wl  wl  wl  wl  wl  wl
+wl  pp1 0   0   0   wl  0   0   0   wl  0   nt  0   0   wl
+wl  pgm ebr 0   0   du  0   nc  0   du  0   0   ph1 0   wl
+wl  pp1 0   0   0   wl  0   0   0   wl  0   0   0   0   wl
+wl  wl  wl  wl  wl  wl  0   0   0   wl  wl  wl  wl  wl  wl
+wl  0   0   0   0   0   0   0   0   0   0   0   0   0   wl
+wl  pp1 0   nc  0   0   0   nc  0   0   0   nc  ebl pa8 wl
+wl  0   0   0   0   0   0   0   0   0   0   0   0   0   wl
+wl  wl  wl  wlb wl  wl  wl  wlb wl  wl  wl  wlb wl  wl  wl

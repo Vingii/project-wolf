@@ -1,0 +1,15 @@
+0   wg  wg  wgf wg  wg  0   0   0   wl  wl  wlb wl  wl  wl
+0   wg  nl  0   0   wg  0   0   0   wl  np  0   pp1 ph1 wl
+0   wg  0   nt  0   wg  0   0   0   wl  0   0   pp1 ph1 wl
+0   wgp edr nc  0   du  0   nc  0   wl  0   0   0   0   wlb
+0   wg  0   0   0   wg  0   0   0   wl  0   0   0   0   wl
+0   wg  0   0   0   wg  0   0   0   wl  wl  dl  wl  wl  wl
+0   wg  0   0   0   wg  0   0   0   0   0   0   0   0   0
+0   wg  0   nc  0   wg  nf  nc  0   0   0   nc  0   0   0
+0   wg  0   ebu 0   wg  0   0   0   0   0   0   0   0   0
+0   wgp 0   0   0   wg  0   0   0   wl  wl  dl  wl  wl  wl
+0   wg  0   0   0   wg  0   0   0   wl  0   0   0   ebl wl
+0   wg  0   nc  0   wg  0   nc  0   wl  0   0   0   0   wlb
+0   wg  wgf Der wgf wg  0   0   0   wl  0   0   pp1 pp1 wl
+0   0   wg  lu  wg  wg  0   0   0   wl  np  0   pp1 ph1 wl
+0   0   wg  wg  wg  wg  0   0   0   wl  wl  wlb wl  wl  wl

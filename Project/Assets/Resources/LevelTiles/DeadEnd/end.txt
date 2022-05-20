@@ -1,0 +1,15 @@
+wl  wl  wl  wl  wl  wl  0   0   0   wl  wl  wl  wl  wl  wl
+wl  wl  wl  ld  wl  wl  0   0   0   wl  np  ph1 np  wl  wl
+wl  wl  wl  Del wl  wl  0   0   0   wl  0   0   0   wl  wl
+wl  wl  0   nc  0   wl  0   nc  0   wl  0   nc  0   wl  wl
+wl  wlf 0   0   0   wl  0   0   0   wl  0   0   0   wlf wl
+wl  wl  0   0   0   wl  0   0   0   wl  edd 0   0   wl  wl
+wl  wl  0   0   0   wl  0   0   0   wl  0   0   0   wl  wl
+wl  wl  0   nc  edr dd  0   nc  0   dd  0   nc  0   wl  wl
+wl  wl  0   0   0   wl  0   0   0   wl  0   0   0   wl  wl
+wl  wl  0   0   0   wl  wg  Wgp wg  wl  0   0   0   wl  wl
+wl  wlf 0   0   0   wl  0   0   0   wl  0   0   0   wlf wl
+wl  wl  nt  ebu 0   wl  0   nc  0   wl  0   ebu nt  wl  wl
+wl  wl  0   0   0   wl  pp1 0   pp1 wl  0   0   0   wl  wl
+wl  wl  0   pp1 0   wl  ph1 0   pa8 wl  pp1 pp1 pp1 wl  wl
+wl  wl  wl  wlb wl  wl  wlb wl  wlb wl  wl  wlb wl  wl  wl
